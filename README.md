@@ -65,8 +65,11 @@
   </a>
 </p>
 
-
-
+-----
+<p align="left">
+  <img height="50%" width="40%" src ="https://github-readme-stats.vercel.app/api?username=phuocdon25">
+ </p>
+ 
 ## Connect with me:
 <p align="left">
   <a href="" target="blank"><img align="center"
@@ -76,9 +79,3 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="" height="30" width="40" /></a>
 </p>
-
------
-<p align="left">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=phuocdon25">
- </p>
- 
