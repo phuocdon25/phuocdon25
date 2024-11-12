@@ -78,7 +78,7 @@
 </p>
 
 -----
-<p align="center">
+<p align="left">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=phuocdon25">
  </p>
  
